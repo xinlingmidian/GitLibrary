@@ -1,0 +1,14 @@
+E:\SRTP\mono_App1\mono_App1\obj\Release\android\assets\mono_App1.dll
+E:\SRTP\mono_App1\mono_App1\obj\Release\android\assets\Java.Interop.dll
+E:\SRTP\mono_App1\mono_App1\obj\Release\android\assets\Mono.Android.dll
+E:\SRTP\mono_App1\mono_App1\obj\Release\android\assets\mscorlib.dll
+E:\SRTP\mono_App1\mono_App1\obj\Release\android\assets\System.Core.dll
+E:\SRTP\mono_App1\mono_App1\obj\Release\android\assets\System.dll
+E:\SRTP\mono_App1\mono_App1\obj\Release\android\assets\System.Net.Http.dll
+E:\SRTP\mono_App1\mono_App1\obj\Release\android\assets\System.Xml.dll
+E:\SRTP\mono_App1\mono_App1\obj\Release\android\assets\System.Xml.Linq.dll
+E:\SRTP\mono_App1\mono_App1\obj\Release\android\assets\Newtonsoft.Json.dll
+E:\SRTP\mono_App1\mono_App1\obj\Release\android\assets\System.Runtime.Serialization.dll
+E:\SRTP\mono_App1\mono_App1\obj\Release\android\assets\System.ServiceModel.Internals.dll
+E:\SRTP\mono_App1\mono_App1\obj\Release\android\assets\Microsoft.CSharp.dll
+E:\SRTP\mono_App1\mono_App1\obj\Release\android\assets\Mono.CSharp.dll

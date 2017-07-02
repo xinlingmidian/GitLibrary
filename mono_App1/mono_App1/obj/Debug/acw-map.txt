@@ -1,0 +1,20 @@
+mono_App1.BootReceiver, mono_App1;md5bd002b8d2c8b7f493107a5aa2fe39914.BootReceiver
+mono_App1.BootReceiver, mono_App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bd002b8d2c8b7f493107a5aa2fe39914.BootReceiver
+mono_App1.BootReceiver;md5bd002b8d2c8b7f493107a5aa2fe39914.BootReceiver
+mono_app1.BootReceiver;md5bd002b8d2c8b7f493107a5aa2fe39914.BootReceiver
+mono_App1.MainActivity, mono_App1;md5bd002b8d2c8b7f493107a5aa2fe39914.MainActivity
+mono_App1.MainActivity, mono_App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bd002b8d2c8b7f493107a5aa2fe39914.MainActivity
+mono_App1.MainActivity;md5bd002b8d2c8b7f493107a5aa2fe39914.MainActivity
+mono_app1.MainActivity;md5bd002b8d2c8b7f493107a5aa2fe39914.MainActivity
+mono_App1.UnlockActivity, mono_App1;md5bd002b8d2c8b7f493107a5aa2fe39914.UnlockActivity
+mono_App1.UnlockActivity, mono_App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bd002b8d2c8b7f493107a5aa2fe39914.UnlockActivity
+mono_App1.UnlockActivity;md5bd002b8d2c8b7f493107a5aa2fe39914.UnlockActivity
+mono_app1.UnlockActivity;md5bd002b8d2c8b7f493107a5aa2fe39914.UnlockActivity
+mono_App1.MyService, mono_App1;md5bd002b8d2c8b7f493107a5aa2fe39914.MyService
+mono_App1.MyService, mono_App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bd002b8d2c8b7f493107a5aa2fe39914.MyService
+mono_App1.MyService;md5bd002b8d2c8b7f493107a5aa2fe39914.MyService
+mono_app1.MyService;md5bd002b8d2c8b7f493107a5aa2fe39914.MyService
+mono_App1.MyBroadcastReceiver, mono_App1;md5bd002b8d2c8b7f493107a5aa2fe39914.MyBroadcastReceiver
+mono_App1.MyBroadcastReceiver, mono_App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bd002b8d2c8b7f493107a5aa2fe39914.MyBroadcastReceiver
+mono_App1.MyBroadcastReceiver;md5bd002b8d2c8b7f493107a5aa2fe39914.MyBroadcastReceiver
+mono_app1.MyBroadcastReceiver;md5bd002b8d2c8b7f493107a5aa2fe39914.MyBroadcastReceiver

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="mono_App1.mono_App1" android:versionCode="1" android:versionName="1.0" android:installLocation="preferExternal">
+  <uses-sdk android:targetSdkVersion="19" android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+  <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+  <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE" />
+  <uses-permission android:name="android.permission.MOUNT_FORMAT_FILESYSTEMS" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_USER_DICTIONARY" />
+  <uses-permission android:name="android.permission.WRITE_OWNER_DATA" />
+  <uses-permission android:name="android.permission.READ_USER_DICTIONARY" />
+  <uses-permission android:name="android.permission.WRITE_PROFILE" />
+  <uses-permission android:name="android.permission.RECORD_AUDIO" />
+  <uses-permission android:name="android.permission.INSTALL_PACKAGES" />
+  <uses-permission android:name="android.permission.GET_PACKAGE_SIZE" />
+  <uses-permission android:name="android.permission.DELETE_PACKAGES" />
+  <uses-permission android:name="com.android.voicemail.permission.ADD_VOICEMAIL" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_CHECKIN_PROPERTIES" />
+  <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+  <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:label="VLock" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <receiver android:name="md5bd002b8d2c8b7f493107a5aa2fe39914.BootReceiver" />
+    <activity android:icon="@drawable/icon" android:label="VLock" android:name="md5bd002b8d2c8b7f493107a5aa2fe39914.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="UnlockActivity" android:name="md5bd002b8d2c8b7f493107a5aa2fe39914.UnlockActivity" />
+    <service android:name="md5bd002b8d2c8b7f493107a5aa2fe39914.MyService" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="mono_App1.mono_App1.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.mono_App1.mono_App1" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>
